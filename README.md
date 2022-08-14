@@ -5,7 +5,7 @@
 
 例如：挖掘石頭時，會自動切換成鎬子來挖掘。
 
-![image](https://github.com/xig1517/AutoSwitch/blob/master/pic/example.gif)
+<h1 align="center">![image](https://github.com/xig1517/AutoSwitch/blob/master/pic/example.gif)</h1>
 
 ## **使用說明**
 目前未啟用自定義功能，將行為包裝入世界後即可生效。
@@ -18,4 +18,4 @@
  
 
 ## **參考**
-- <a herf="https://minecraft.fandom.com/wiki/Breaking">Minecraft Wiki - Breaking</a>
+- [Minecraft Wiki - Breaking](https://minecraft.fandom.com/wiki/Breaking)
